@@ -20,6 +20,11 @@
 
 実行結果：![j1_1](https://user-images.githubusercontent.com/44014624/46715952-150e7180-cc9d-11e8-9124-d3777a58c6ec.PNG)
 
+３つ目のSystem.out.println()内の(x+y)の括弧()をなくした場合:
+![j1_1](https://user-images.githubusercontent.com/44014624/46717136-a8e23c80-cca1-11e8-830d-9250c33e9f9b.PNG)
+
+int x; としてxの初期値を指定しなかった場合:
+![j1_1 intx](https://user-images.githubusercontent.com/44014624/46717137-abdd2d00-cca1-11e8-8bd4-447fe0e67b07.PNG)
 
 # 参考文献
 演習サイト
