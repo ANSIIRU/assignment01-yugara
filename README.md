@@ -9,6 +9,7 @@
 ## 課題1
 プログラム名:　HelloWorld
 プログラムの説明：「HelloWorld」と表示させるプログラム。
+実行結果：![helloworld](https://user-images.githubusercontent.com/44014624/46715921-f9a36680-cc9c-11e8-9987-d2b67aed618d.PNG)
 
 ## 課題2
 プログラム名: J1_1
